@@ -5,6 +5,3 @@ I have a passion to learn and explore differnet avenues within the technology in
 The thought that there is infinite possibilities to invent something new pushes me to learn more.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImtiHart)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
