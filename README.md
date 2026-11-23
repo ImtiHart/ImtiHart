@@ -16,6 +16,12 @@ The thought that there is infinite possibilities to invent something new pushes 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiyaaz-hartley/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imtihart@gmail.com)
+
+
 <br>Fun facts🤓:
 <br>-I do rock climbing, soccer and various other sports.
 <br>-I am the chairperson of the Muslims Students Association and student leader in my degree.
