@@ -20,7 +20,7 @@ The thought that there is infinite possibilities to invent something new pushes 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiyaaz-hartley/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imtihart@gmail.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImtiHart)
 
 <br>Fun facts🤓:
 <br>-I do rock climbing, soccer and various other sports.
